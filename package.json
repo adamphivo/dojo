@@ -1,0 +1,23 @@
+{
+  "name": "dojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamphivo/dojo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamphivo/dojo/issues"
+  },
+  "homepage": "https://github.com/adamphivo/dojo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18",
+    "typescript": "^4.7.4"
+  }
+}
