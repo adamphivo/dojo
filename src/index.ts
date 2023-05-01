@@ -1,1 +1,3 @@
-import { sum, sub, countBits } from "./katas";
+import { humanReadable } from './katas/humanReadableTime/humandReadableTime';
+
+humanReadable(86399);
