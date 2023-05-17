@@ -1,3 +1,3 @@
-import { humanReadable } from './katas/humanReadableTime/humandReadableTime';
+import { beeramid } from './katas/beeramid/beeramid';
 
-humanReadable(86399);
+console.log(beeramid(9, 2));
