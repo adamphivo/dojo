@@ -1,3 +1,4 @@
 import { beeramid } from './katas/beeramid/beeramid';
+import { calculate } from './katas/routecalculator/calculate';
 
-console.log(beeramid(9, 2));
+console.log(calculate('1+1'));
