@@ -1,3 +1,3 @@
-import { parseInt } from './katas/parseIntReloaded/parseIntReloaded';
+import { formatDuration } from './katas/durationFormat/durationFormat';
 
-parseInt('two hundred forty-six thousand one hundred fifty-eight');
+console.log(formatDuration(15731080));
