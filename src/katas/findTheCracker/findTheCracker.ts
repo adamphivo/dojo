@@ -1,5 +1,5 @@
 type Result = (string | number | string[])[];
-
+// https://www.codewars.com/kata/59f70440bee845599c000085/train/javascript
 export function findHack(results: Array<Result>): string[] {
   const petitsMalins = [];
   for (let result of results) {
